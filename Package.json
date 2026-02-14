@@ -4,5 +4,5 @@
 }
 
 
-run backend
+run backend(bash)
 npm run dev
