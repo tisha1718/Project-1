@@ -1,4 +1,0 @@
-cd backend
-npm init -y
-npm install express pg cors bcrypt jsonwebtoken dotenv
-npm install nodemon --save-dev
